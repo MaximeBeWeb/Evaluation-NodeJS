@@ -1,0 +1,134 @@
+{
+    "aperitifs": [
+        {
+            "id": 1,
+            "name": "pastis",
+            "price": 12
+        },
+        {
+            "id": 2,
+            "name": "kir",
+            "price": 12
+        },
+        {
+            "id": 3,
+            "name": "suze",
+            "price": 12
+        },
+        {
+            "id": 4,
+            "name": "chartreuse",
+            "price": 12
+        }
+    ],
+    "cocktails": [
+        {
+            "id": 5,
+            "name": "mojito",
+            "price": 12
+        },
+        {
+            "id": 6,
+            "name": "caipirinha",
+            "price": 12
+        },
+        {
+            "id": 7,
+            "name": "margarita",
+            "price": 12
+        },
+        {
+            "id": 8,
+            "name": "spritz",
+            "price": 12
+        }
+    ],
+    "whiskies": [
+        {
+            "id": 9,
+            "name": "nikka",
+            "price": 12
+        },
+        {
+            "id": 10,
+            "name": "glendronach",
+            "price": 12
+        },
+        {
+            "id": 11,
+            "name": "redbreast",
+            "price": 12
+        },
+        {
+            "id": 12,
+            "name": "lagavulin",
+            "price": 12
+        }
+    ],
+    "bieres": [
+        {
+            "id": 13,
+            "name": "blonde",
+            "price": 12
+        },
+        {
+            "id": 14,
+            "name": "rousse",
+            "price": 12
+        },
+        {
+            "id": 15,
+            "name": "brune",
+            "price": 12
+        },
+        {
+            "id": 16,
+            "name": "ipa",
+            "price": 12
+        }
+    ],
+    "vins": [
+        {
+            "id": 17,
+            "name": "blanc",
+            "price": 12
+        },
+        {
+            "id": 18,
+            "name": "rouge",
+            "price": 12
+        },
+        {
+            "id": 19,
+            "name": "rose",
+            "price": 12
+        },
+        {
+            "id": 20,
+            "name": "verde",
+            "price": 12
+        }
+    ],
+    "shots": [
+        {
+            "id": 21,
+            "name": "vodka",
+            "price": 12
+        },
+        {
+            "id": 22,
+            "name": "tequila",
+            "price": 12
+        },
+        {
+            "id": 23,
+            "name": "Jaeger",
+            "price": 12
+        },
+        {
+            "id": 24,
+            "name": "tord-boyau",
+            "price": 12
+        }
+    ]
+}
