@@ -6,19 +6,19 @@ Voici le code servant à gérer des opérations de CRUD pour la carte des boisso
 
 La carte est classé dans le dossier à l'endroit:
 ```
-src/model/carte.json
+src/model/bar.json
 ```
 
-La carte est composée de 6 tableaux, dont les codes sources sont chacun classés dans un fichier distinct, à l'endroit:
+La carte est composée de 6 tableaux Json, dont les codes sources sont chacun classés dans un fichier distinct, à l'endroit:
 
 ```
-src/controller/ctrl_arrayName
+src/controller/arrayName_ctrl
 ```
 
 Tous les routers correspondants sont classés dans un dossier, à l'endroit:
 
 ```
-src/routes/route_arrayName
+src/routes/arrayName_route
 ```
 
 
@@ -47,7 +47,7 @@ Voici également la liste des librairies utilisées:
 ### Installation du projet
 * Mettez vous à la racine du projet
 * Ouvrez un terminal
-* Assurez vosu d'avoir node d'installé via la commande 
+* Assurez vous d'avoir node d'installé via la commande 
 ```bash 
 node-v
 ```
